@@ -36,3 +36,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### reference
 
 https://dev-yakuza.posstree.com/ko/react/nextjs/start/
+
+### packages
+
+```
+npm install @mui/material @emotion/react @emotion/styled @mui/icons-material
+```
