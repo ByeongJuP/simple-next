@@ -36,6 +36,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ### reference
 
 https://dev-yakuza.posstree.com/ko/react/nextjs/start/
+https://gingerkang.tistory.com/119?category=926753
 
 ### packages
 
