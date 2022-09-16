@@ -35,8 +35,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ### reference
 
+https://nextjs.org/docs/getting-started
 https://dev-yakuza.posstree.com/ko/react/nextjs/start/
 https://gingerkang.tistory.com/119?category=926753
+https://www.howdy-mj.me/next/next-js-intro/
 
 ### packages
 
